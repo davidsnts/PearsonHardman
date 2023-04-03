@@ -478,7 +478,7 @@ i{
     display: none;
   }
 
-  #close-menu{
+  #close-menu, #menu{
     position: absolute;
     top: 0;
     right: 0;  
